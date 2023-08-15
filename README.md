@@ -1,4 +1,4 @@
-# GaugeMobileAppTestAutomation
+# GaugeCrossMobileTestAutomation
 
 # **Requirements**
 
