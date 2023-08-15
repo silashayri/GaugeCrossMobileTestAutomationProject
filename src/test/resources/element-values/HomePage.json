@@ -1,0 +1,30 @@
+[
+  {
+    "key": "widgetButton",
+    "androidValue": "android.widget.Button",
+    "androidType": "class",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "youtubeHomePageSearchButton",
+    "androidValue": "//android.widget.ImageView[@content-desc=\"Search\"]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "youtubeHomePageSearchText",
+    "androidValue": "com.google.android.youtube:id/search_edit_text",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "foundSearchText",
+    "androidValue": "android.widget.TextView",
+    "androidType": "class",
+    "iosValue": "",
+    "iosType": ""
+  }
+]
